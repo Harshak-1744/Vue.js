@@ -21,7 +21,7 @@
   This is where the Vue app will display the title and content you defined in your Vue code.
 
 #### Step 4: **Include Vue.js CDN for Vue 3**:
-- Before the closing `body` tag, include Vue 3 using a CDN link. At the time of my last update, you'd get the CDN link from Vue's official documentation or a trusted CDN provider.
+- Before the closing `body` tag, include Vue 3 using a CDN link., you'd get the CDN link from Vue's official documentation or a trusted CDN provider.
 
 #### Step 5: **Add Your Vue Script**:
 - After the CDN link, insert a `script` tag for your Vue.js code. Paste the code you provided:
@@ -42,3 +42,38 @@
 #### Step 6: **Test Your App**:
 - Save the `index.html` file.
 - Open it with a web browser. You should see the title "Hello, Kiddo" and the content "Welcome to Vue Framework" displayed on the page.
+
+
+## Example:-
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Vue 3 App</title>
+</head>
+<body>
+
+<div id="content">
+    <h1>{{ pageTitle }}</h1>
+    <p>{{ content }}</p>
+</div>
+
+<!-- Including Vue 3 from CDN -->
+<script src="https://unpkg.com/vue@next"></script>
+
+<script>
+    Vue.createApp({
+        data() {
+            return {
+                pageTitle: 'Hello, Kiddo',
+                content: 'Welcome to Vue Framework'
+            }
+        }
+    }).mount("#content");
+</script>
+
+</body>
+</html>
+```
