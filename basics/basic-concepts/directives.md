@@ -1,5 +1,7 @@
 ## Vue Directives Details
 
+Directives are used to modify the behavior of our HTML elements which reside in the DOM. In other words, we can say that directives are one of the important parts of the Vue and it is used just like an HTML element’s attribute added along with any HTML elements into the Vue template.
+
 ### 1. `v-bind`
 
 **Usage**: Binds an attribute to an expression.
