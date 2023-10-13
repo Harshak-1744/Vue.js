@@ -56,6 +56,6 @@ In short:
 - **One-Way Binding**: The website tells you something. You can see it, but if you shout back, it doesn't hear you.
 - **Two-Way Binding**: The website tells you something, and if you talk back, it listens and remembers what you said.
 
-It's like the difference between a radio (one-way) and a telephone (two-way). With the radio, you just listen. With the telephone, both of you can talk and listen. 
+It's like the difference between a radio (one-way) and a telephone (two-way). With the radio, you just listen. With the telephone, both of you can talk and listen.
 
 
