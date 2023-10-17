@@ -12,7 +12,7 @@
   - Strong community support
 
 ## Setting Up
-- **Official Vue CLI**
+- **Official Vue CLI** 
   - Installation: `npm install -g @vue/cli`
   - Creating a project: `vue create my-project`
 
