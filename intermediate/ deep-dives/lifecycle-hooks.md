@@ -58,3 +58,7 @@ In the example above, we use the `created` lifecycle hook to fetch data as soon 
 ### Conclusion:
 
 Lifecycle hooks are an integral part of Vue that allow for precise control over the component from creation to destruction. Whether you're fetching data, manipulating the DOM, or cleaning up subscriptions, understanding and utilizing these hooks is key to building robust Vue applications.
+
+
+![lifecycle 16e4c08e](https://github.com/Harshak-1744/Vue.js/assets/85007461/2e2a2cab-cde8-4b97-9693-79695b79c328)
+
