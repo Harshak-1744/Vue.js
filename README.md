@@ -11,8 +11,8 @@
   - Simple and flexible API
   - Strong community support
 
-## Setting Up
-- **Official Vue CLI** 
+## Setting Up 
+- **Official Vue CLI(Command Line Interface)** 
   - Installation: `npm install -g @vue/cli`
   - Creating a project: `vue create my-project`
 
