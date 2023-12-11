@@ -1,6 +1,6 @@
 ## Advanced topics in Vue.js:
 
-### 1.  **Dynamic components**:
+### 1.  **Dynamic components**: 
 Dynamic components allow you to switch between different components based on the state of your application. You can use the 'component' element to dynamically render a component based on a data property[1].
 
 ### 2. **Custom directives**:
