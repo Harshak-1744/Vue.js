@@ -1,6 +1,6 @@
 # Vue.js Beginner's Roadmap
  
-## Introduction 
+## Introduction  
 - **What is Vue.js?**
   - Progressive JavaScript Framework
   - Reactive data-binding
