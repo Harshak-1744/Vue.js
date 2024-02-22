@@ -14,7 +14,7 @@
 ## Setting Up 
 - **Official Vue CLI(Command Line Interface)** 
   - Installation: `npm install -g @vue/cli`
-  - Creating a project: `vue create my-project`
+  - Creating a project: `vue create my-project` 
 
 - **CDN**
   - Including Vue from a CDN in simple projects
