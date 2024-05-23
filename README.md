@@ -55,7 +55,7 @@
 - Creating routes
 - Navigation guards
 
-## Vuex (State Management)
+## Vuex ( STATE MANAGEMENT )
 - What is Vuex?
 - State, Getters, Mutations, Actions, Modules
 
