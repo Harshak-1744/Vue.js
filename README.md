@@ -8,7 +8,7 @@
 
 - **Why choose Vue.js?**
   - Easy to integrate with other projects
-  - Simple and flexible API
+  - Simple and flexible API 
   - Strong community support
 
 ## Setting Up 
